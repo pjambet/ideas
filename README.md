@@ -18,3 +18,4 @@ _ideas for articles I'd like to write_
 
 - Django/Rails
 - RethinkDB
+- Parse/s3
