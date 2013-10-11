@@ -1,4 +1,4 @@
-# Ideas
+# Ideas !
 
 _A list of project ideas I'd like to work on_
 
